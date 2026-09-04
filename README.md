@@ -16,6 +16,8 @@ This template can be used to build and potentially deploy Docker images via HELM
 
 ## Usage
 
+This is a change!
+
 <b>Don't use this template via the GitHub UI.</br>
 Use our [self-service](https://github.com/EBCONT-Conference/devopsdays.demo.self-service) to create a new repository based on this template.</b>
 
