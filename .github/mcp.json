@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "everything": {
-      "type": "local",
+      "type": "local2",
       "command": "npx",
       "args": [
         "-y",
