@@ -1,11 +1,12 @@
 version: 2
 updates:
   - package-ecosystem: github-actions
-    directory: /
+    directory: /df
     schedule:
       interval: daily
     commit-message:
       prefix: fix(deps)
+    
 
   - package-ecosystem: docker
     directory: /
